@@ -2,17 +2,17 @@
 
 This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to provide drones for farming purposes at reasonable costs.
 
-## Tools used
+## Tools/Specifications:
 
 1. Size of drone 1.5 m (diagonal)
-2. Arm me a carbon fiber
-3. 3d printing use
-4. Pesticide ka tank me sloshing effect kam karne ke hisab se design, based on, based on
-5. Propeller blades material-  ABS plastic
+2. Carbon fiber Arm
+3. 3D printing use
+4. Design based on reducing sloshing effect on Pesticide tank.
+5. Propeller blades material- ABS plastic
 6. 2 GPS sensor
 7. Software to control and automatic
 8. Pesticides nozzle on all 4 legs
-9. A compressor pump is used to send liquid to the nozzle
+9. A compressor pump (to send liquid to the nozzle).
 
 ## Why do we select 4 rotors?
 
@@ -25,7 +25,7 @@ This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to pro
 
 ## Time difference b/w manual and drone
 
-![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/img/size.jpeg)
+![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/blob/master/img/pesticide.jpg)
 
 Humans can cover 0.65 acres manually in 8 hours while Drone(UAV) can cover 1.33 acres in 1 hour.
 
@@ -59,7 +59,7 @@ Compressor is selected mainly on the basis of Flow rate, type of fluid, suction 
 
 The required quantity for different pesticides are:
 
-![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/img/pesticide.jpeg)
+![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/blob/master/img/pesticide.jpg)
 
 On average, we get the required amount of pesticide per acre = 400ml/acre.
 
@@ -88,9 +88,6 @@ we have shortlisted the one which is convenient to us.
 Heavyweight, so we need to produce more downward force to lift u, resulting in more power consumption.
 
 So, According to the above advantages and disadvantages we can see for our application a simpler drone with low weight is more convenient.
-
-
-
 
 
 

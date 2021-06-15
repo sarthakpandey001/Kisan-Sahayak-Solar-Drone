@@ -25,7 +25,7 @@ This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to pro
 
 ## Time difference b/w manual and drone
 
-![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/blob/master/img/pesticide.jpg)
+![image](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/blob/master/img/size.jpg)
 
 Humans can cover 0.65 acres manually in 8 hours while Drone(UAV) can cover 1.33 acres in 1 hour.
 

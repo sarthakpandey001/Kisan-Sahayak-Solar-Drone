@@ -91,4 +91,39 @@ So, According to the above advantages and disadvantages we can see for our appli
 
 
 
+#### Mentors
+
+1. Dr. Krupesh A. Chauhan
+   
+   Coordinator
+   
+   UBA Cell 
+
+   SVNIT,Surat
+
+   [Contact](https://www.svnit.ac.in/facup/kac.pdf) 
+
+2. Dr. Shweta N. Shah
+ 
+   Co-coordinators
+
+   UBA Cell,
+
+   SVNIT,Surat
+
+   [Contact](https://www.svnit.ac.in/facup/SNS/index.html)
+
+
+#### Team Members
+
+1. Manan Gohil,MED     -   [Linkedin](https://www.linkedin.com/in/manan-gohil-866b38199)
+2. Sarthak Pandey,ECED  -  [Linkedin](https://www.linkedin.com/in/sarthak-pandey-b8201b194/)
+3. Pratham Choukse,MED  -  [Linkedin](https://www.linkedin.com/in/pratham-choukse-66841b1b8/)
+4. Amit Kumar Panigrahi,MED - [Linkedin](https://www.linkedin.com/in/amit-kumar-panigrahi-/)
+5. Dheerendra Prajapat,MED  
+
+
+
+
+
 

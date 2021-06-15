@@ -24,6 +24,14 @@ This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to pro
 
 ## Time difference b/w manual and drone
 
+
+| |Manual |Drone  |
+|----- |----- |----- |
+|Size of field (in acre) |1  |1  |
+|Time required (in hrs)|12.3 |.16 |
+|Cost per hour (is rs)|37.5 |500 |
+|Total cost (in Rs)|461 |80 |
+
 ## Aerodynamic Shape:
  
 ### Advantages:
@@ -38,6 +46,8 @@ This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to pro
 Heavyweight, so we need to produce more downward force to lift u, resulting in more power consumption.
 
 So, According to the above advantages and disadvantages we can see for our application a simpler drone with low weight is more convenient.
+
+
 
 
 

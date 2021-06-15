@@ -1,6 +1,6 @@
 # Kisan-Sahayak-Solar-Drone
 
-This Projected is implemented under the Unnat Bharat Abhiyaan with an aim to provide drones for farming purposes at reasonable costs.
+This Project is implemented under the Unnat Bharat Abhiyaan with an aim to provide drones for farming purposes at reasonable costs.
 
 ## Tools/Specifications:
 
@@ -120,7 +120,7 @@ So, According to the above advantages and disadvantages we can see for our appli
 2. Sarthak Pandey,ECED  -  [Linkedin](https://www.linkedin.com/in/sarthak-pandey-b8201b194/)
 3. Pratham Choukse,MED  -  [Linkedin](https://www.linkedin.com/in/pratham-choukse-66841b1b8/)
 4. Amit Kumar Panigrahi,MED - [Linkedin](https://www.linkedin.com/in/amit-kumar-panigrahi-/)
-5. Dheerendra Prajapat,MED  
+5. Dheerendra Prajapat,MED  - [Linkedin](https://www.linkedin.com/in/dheerendra-prajapat-4195341b6)
 
 
 

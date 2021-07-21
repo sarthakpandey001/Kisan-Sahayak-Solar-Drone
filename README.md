@@ -2,6 +2,9 @@
 
 This Project is implemented under the Unnat Bharat Abhiyaan with an aim to provide drones for farming purposes at reasonable costs.
 
+To View the project file visit [here](https://github.com/sarthakpandey001/Kisan-Sahayak-Solar-Drone/blob/master/UBA%20Team-18%20Kisan%20sahayak%20solar%20drone.pdf).
+
+
 ## Tools/Specifications:
 
 1. Size of drone 1.5 m (diagonal)
@@ -46,13 +49,15 @@ The cost-saving per acre land on drone usage is 461-80=381 and the percentage sa
 
 ```Battery Discharge Rate = Capacity (Ah) * C-rate ```
 
-For a 4S14.8 V lipo cell with nominal voltage 3.7V.
+For a 6S22.2 V lipo cell with nominal voltage 3.7V.
 
-Capacity: 1300 mAh=1.3Ah
+Capacity: 10000 mAh=10Ah
 
-120 C battery
+30 C battery
 
-`Discharge rate: 1.3 * 120 = 156 Ah`
+`Discharge rate: 10 * 30 = 300 Ah`
+
+`power : 22.2 * 10 = 222 Wh `
 
 ## Compressor select criterion:
 Compressor is selected mainly on the basis of Flow rate, type of fluid, suction pressure, temperature and discharge pressure
